@@ -66,7 +66,8 @@
 - Animasi saat charger dicolok, tepi pil berdenyut saat baterai hampir habis
 - Pratinjau screenshot (`Win + Shift + S`): seret langsung ke WhatsApp
 - Pengumuman tim: satu klik, muncul di pil semua laptop kantor
-- Jadwal sholat (opsional), kriteria Kemenag RI, tanpa internet
+- Jadwal sholat (opsional) dengan halaman khusus, mengikuti kota tempat laptop berada, kriteria Kemenag RI
+- Cuaca hidup di pil saat diam: hujan, bintang, awan, kilat
 - Catatan / daftar tugas cepat
 - Indikator Caps Lock dan bahasa keyboard
 - Lirik berjalan di pil, sinkron dengan lagu
