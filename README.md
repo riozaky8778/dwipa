@@ -15,6 +15,21 @@
 **Dwipa** menaruh pil hitam kecil di tengah atas layar, seperti poni di iPhone dan MacBook. Saat diam ia hanya menampilkan jam atau lagu yang sedang diputar. Arahkan kursor ke atasnya, dan pil melebar menjadi panel berisi musik, lirik, kalender, timer, dan kontrol laptop. Klik di sekitar pil tetap tembus ke aplikasi di belakangnya, jadi tidak mengganggu kerja.
 
 <p align="center">
+  <img src="desktop/desktop-lirik.jpg" alt="Dwipa di desktop: panel musik dengan lirik bergulir, di atas wallpaper Senja" width="100%">
+</p>
+
+<table>
+  <tr>
+    <td width="50%"><img src="desktop/desktop-istirahat.jpg" alt="Layar istirahat di atas wallpaper Malam"></td>
+    <td width="50%"><img src="desktop/desktop-beranda.jpg" alt="Halaman Beranda di atas wallpaper Pagi"></td>
+  </tr>
+  <tr>
+    <td width="50%"><img src="desktop/desktop-ringkas.jpg" alt="Pil ringkas dengan lirik berjalan"></td>
+    <td width="50%"><img src="desktop/desktop-notifikasi.jpg" alt="Notifikasi WhatsApp di pil"></td>
+  </tr>
+</table>
+
+<p align="center">
   <img src="screenshots/ringkas-lirik.png" alt="Pil ringkas menampilkan lirik yang sedang dinyanyikan" width="420">
 </p>
 
@@ -46,12 +61,20 @@
 
 **Juga ada:**
 
+- Layar istirahat: jam besar saat laptop tidak disentuh
+- Cahaya "bernapas" di bawah pil saat diam, warnanya ikut waktu
+- Animasi saat charger dicolok, tepi pil berdenyut saat baterai hampir habis
+- Pratinjau screenshot (`Win + Shift + S`): seret langsung ke WhatsApp
+- Pengumuman tim: satu klik, muncul di pil semua laptop kantor
+- Jadwal sholat (opsional), kriteria Kemenag RI, tanpa internet
+- Catatan / daftar tugas cepat
+- Indikator Caps Lock dan bahasa keyboard
 - Lirik berjalan di pil, sinkron dengan lagu
 - Notifikasi WhatsApp, Telegram, dan email muncul di pil; klik untuk membuka aplikasinya
 - Titik hijau/oranye saat kamera atau mikrofon sedang dipakai
 - Pop-up volume dan kecerahan yang beranimasi
 - TWS tersambung lengkap dengan baterainya
-- Timer dan pomodoro
+- Timer dan pomodoro, sisa waktunya melingkari pil
 - Rak file (seret masuk, seret keluar) dan riwayat clipboard
 - Shortcut `Win + Alt + Spasi` untuk membuka panel
 - Sembunyi otomatis saat main game atau nonton layar penuh
@@ -60,6 +83,41 @@
 <p align="center">
   <img src="screenshots/notifikasi.png" alt="Notifikasi WhatsApp di pil" width="460">
 </p>
+
+<table>
+  <tr>
+    <td width="50%"><img src="screenshots/layar-istirahat.png" alt="Layar istirahat: jam besar saat laptop tidak disentuh"></td>
+    <td width="50%"><img src="screenshots/catatan.png" alt="Halaman Catatan"></td>
+  </tr>
+  <tr>
+    <td><b>Layar istirahat.</b> Jam besar, lagu yang diputar, dan sholat/agenda berikutnya saat laptop ditinggal.</td>
+    <td><b>Catatan.</b> Daftar tugas cepat, langsung dari pil.</td>
+  </tr>
+</table>
+
+<p align="center">
+  <img src="screenshots/screenshot.png" alt="Pratinjau screenshot di pil" width="460">
+  <br><sub>Setelah Win + Shift + S: seret gambarnya langsung ke WhatsApp atau folder.</sub>
+</p>
+
+## Wallpaper
+
+Biar desktopmu sama seperti di gambar, pakai wallpaper Dwipa (4K, gratis). Klik gambarnya untuk mengunduh, lalu klik kanan file → **Jadikan latar belakang desktop**.
+
+<table>
+  <tr>
+    <td width="33%"><a href="wallpaper/dwipa-senja.jpg?raw=true"><img src="wallpaper/dwipa-senja.jpg" alt="Wallpaper Dwipa Senja"></a></td>
+    <td width="33%"><a href="wallpaper/dwipa-malam.jpg?raw=true"><img src="wallpaper/dwipa-malam.jpg" alt="Wallpaper Dwipa Malam"></a></td>
+    <td width="33%"><a href="wallpaper/dwipa-pagi.jpg?raw=true"><img src="wallpaper/dwipa-pagi.jpg" alt="Wallpaper Dwipa Pagi"></a></td>
+  </tr>
+  <tr>
+    <td align="center"><b>Senja</b></td>
+    <td align="center"><b>Malam</b></td>
+    <td align="center"><b>Pagi</b></td>
+  </tr>
+</table>
+
+Tips: pilih bentuk **Poni** di Pengaturan supaya pil menyatu dengan tepi atas layar seperti di gambar.
 
 ## Cara memasang
 
@@ -76,10 +134,10 @@ Versi baru akan dipasang otomatis. Dwipa memberi tahu lewat pil saat ada pembaru
 ## Pertanyaan
 
 **Apakah berat?**
-Tidak. Dwipa memakai WebView2 bawaan Windows, dan animasi berhenti saat tidak terlihat. Data sistem hanya dihitung saat halamannya dibuka.
+Tidak. Dwipa memakai WebView2 bawaan Windows, dan animasi berhenti saat tidak terlihat. Data sistem hanya dihitung saat halamannya dibuka. Saat Battery Saver menyala, Dwipa otomatis masuk mode hemat.
 
 **Data saya dikirim ke mana?**
-Tidak ke mana-mana. Notifikasi, clipboard, dan aktivitas kamera/mikrofon hanya dibaca di laptop sendiri. Yang mengakses internet hanya pencarian lirik ([LRCLIB](https://lrclib.net)), cuaca ([Open-Meteo](https://open-meteo.com)), link kalender yang kamu isi sendiri, dan pemeriksaan update.
+Tidak ke mana-mana. Notifikasi, clipboard, screenshot, catatan, dan aktivitas kamera/mikrofon hanya dibaca di laptop sendiri. Yang mengakses internet hanya pencarian lirik ([LRCLIB](https://lrclib.net)), cuaca ([Open-Meteo](https://open-meteo.com)), link kalender yang kamu isi sendiri, pengumuman tim, dan pemeriksaan update.
 
 **Liriknya tidak muncul?**
 Tidak semua lagu ada di database lirik, terutama lagu yang kurang populer. Kalau liriknya terasa telat atau kecepatan, geser dengan tombol **− Timing +** di mode lirik.
