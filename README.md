@@ -70,6 +70,11 @@
 - Cuaca hidup di pil saat diam: hujan, bintang, awan, kilat
 - Catatan / daftar tugas cepat
 - Indikator Caps Lock dan bahasa keyboard
+- Flashdisk: buka & keluarkan dengan aman dari pil; unduhan selesai bisa langsung diseret ke WhatsApp
+- Tombol cepat: mode gelap, layar hangat, hotspot, mode pesawat, bisukan mikrofon (`Ctrl + Alt + M`)
+- Mixer volume per aplikasi dan sambungkan TWS langsung dari pil
+- Pengingat istirahat mata, minum, peregangan; peringatan hujan, laptop panas, dan cabut charger
+- Stopwatch, alarm, jam dunia WIB/WITA/WIT, dan tema musiman (Agustus, Ramadan, Lebaran)
 - Lirik berjalan di pil, sinkron dengan lagu
 - Notifikasi WhatsApp, Telegram, dan email muncul di pil; klik untuk membuka aplikasinya
 - Titik hijau/oranye saat kamera atau mikrofon sedang dipakai
