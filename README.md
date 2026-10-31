@@ -83,7 +83,10 @@
 - Timer dan pomodoro, sisa waktunya melingkari pil
 - Rak file (seret masuk, seret keluar) dan riwayat clipboard
 - Shortcut `Win + Alt + Spasi` untuk membuka panel
+- Mata di pil yang melirik ke kursor, berkedip, dan berganti ekspresi (ngantuk, senang, marah, kucing, jatuh cinta)
+- Timer model penggaris: geser untuk memilih menit
 - Sembunyi otomatis saat main game atau nonton layar penuh
+- Menyingkir jadi garis tipis saat kursor menuju tab browser yang dimaksimalkan
 - Update otomatis
 
 <p align="center">
