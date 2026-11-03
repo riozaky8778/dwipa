@@ -85,6 +85,8 @@
 - Shortcut `Win + Alt + Spasi` untuk membuka panel
 - Mata di pil yang melirik ke kursor, berkedip, dan berganti ekspresi (ngantuk, senang, marah, kucing, jatuh cinta)
 - Timer model penggaris: geser untuk memilih menit
+- Mata yang bisa digoda, tersipu, menguap, dan memakai peci/topi Santa/payung sesuai musim & cuaca
+- Konfeti, mini game saat internet putus, kata hari ini, flip clock & jam analog di layar istirahat
 - Sembunyi otomatis saat main game atau nonton layar penuh
 - Menyingkir jadi garis tipis saat kursor menuju tab browser yang dimaksimalkan
 - Update otomatis
