@@ -86,6 +86,8 @@
 - Mata di pil yang melirik ke kursor, berkedip, dan berganti ekspresi (ngantuk, senang, marah, kucing, jatuh cinta)
 - Timer model penggaris: geser untuk memilih menit
 - Mata yang bisa digoda, tersipu, menguap, dan memakai peci/topi Santa/payung sesuai musim & cuaca
+- Kirim & terima file lewat HP pakai QR di Wi-Fi yang sama, tanpa aplikasi tambahan
+- Atur isi pil kiri/tengah/kanan, tema terang/gelap, dan posisi pil di 6 titik layar
 - Pil bergradasi Aurora/Senja/Laut dengan tepi bercahaya, halaman "Hari ini" berisi notifikasi terakhir & minggu ini
 - Pengingat sholat berlatar warna langit, mata yang melambai dan mengangguk ikut lagu
 - Konfeti, mini game saat internet putus, kata hari ini, flip clock & jam analog di layar istirahat
